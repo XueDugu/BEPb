@@ -50,15 +50,13 @@
 <a href="https://skyline.github.com/XueDugu/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=XueDugu" width="auto"></img>
 
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://github.com/XueDugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/XueDugu/XueDugu/master/assets/twitter.svg" alt="XueDugu" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/XueDugu/XueDugu/master/assets/linkedin.svg" alt="XueDugu" height="30" width="30" /></a>
-<a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/XueDugu/XueDugu/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+<a href="https://github.com/XueDugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/XueDugu/XueDugu/master/assets/linkedin.svg" alt="XueDugu" height="30" width="30" /></a>
+<a href="https://github.com/XueDugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/XueDugu/XueDugu/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://github.com/XueDugu" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
 <div align="center">
@@ -174,9 +172,9 @@ counting of visitors to this page in this section started from June 12, 2022
 </p>
 
 ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
+  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and use.* 
 ---
-Would you ike to meet me?
+Would you like to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
